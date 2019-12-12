@@ -1,0 +1,17 @@
+
+
+
+
+npx create-react-app client
+npm install --save react-router-dom
+[Client]
+npm install http-proxy-middleware --save-dev
+[Client]
+npm install materialize-css --save
+[Client]
+npm install axios --save
+[Client]
+npm install uuid --save	[video47 - generate id]
+[Client]
+npm install universal-cookie --save [to create / get cookie for visitor)
+[Client]

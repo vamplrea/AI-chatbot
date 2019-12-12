@@ -1,0 +1,10 @@
+
+https://reactjs.org/docs/state-and-lifecycle.html
+
+https://materializecss.com/navbar.html [react frontend libary like boostrap
+
+https://www.sitepoint.com/introduction-to-the-fetch-api/ [41]-fetch API
+https://www.sitepoint.com/axios-beginner-guide/
+https://medium.com/@sahilkkrazy/fetch-vs-axios-http-request-c9afa43f804e
+
+https://reactjs.org/docs/lists-and-keys.html		[42]
